@@ -1,0 +1,2 @@
+# ddd
+Vaalikoneiden käyttäjien vastauksia
